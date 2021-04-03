@@ -23,4 +23,4 @@
 ## Screenshots
 
 ![Screenshot 1](./assets/screenshot_1.png)
-![Screenshot 2](./assets/screenshot_2.png)
+![Screenshot Mobile 1](./assets/screenshot_mob_1.png) ![Screenshot Mobile 2](./assets/screenshot_mob_2.png) ![Screenshot Mobile 3](./assets/screenshot_mob_3.png)
