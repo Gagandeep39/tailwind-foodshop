@@ -4,7 +4,8 @@
   - [Deployment](#deployment)
   - [Description](#description)
   - [Additional links](#additional-links)
-  - [Screenshots](#screenshots)
+  - [Screenshots Desktop](#screenshots-desktop)
+  - [Screenshot Mobile](#screenshot-mobile)
 
 ## Deployment
 
@@ -20,7 +21,12 @@
 - SVG Icons <https://heroicons.com/>
 - Tailwind CSS Docs <https://tailwindcss.com/docs>
 
-## Screenshots
+## Screenshots Desktop
 
 ![Screenshot 1](./assets/screenshot_1.png)
-![Screenshot Mobile 1](./assets/screenshot_mob_1.png) ![Screenshot Mobile 2](./assets/screenshot_mob_2.png) ![Screenshot Mobile 3](./assets/screenshot_mob_3.png)
+
+## Screenshot Mobile
+
+|                  Mobile Screensht 1                   |                  Mobile screenshot 2                  |                  Mobile screenshot 2                  |
+| :---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
+| ![Screenshot Mobile 1](./assets/screenshot_mob_1.png) | ![Screenshot Mobile 2](./assets/screenshot_mob_2.png) | ![Screenshot Mobile 3](./assets/screenshot_mob_3.png) |
